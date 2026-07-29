@@ -39,8 +39,6 @@ para abordar los problemas desde varios ángulos a la vez.</i>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:38bdf8,100:8b5cf6&height=3&section=header" width="100%" alt="" />
 
 <blockquote>
-<p>No en este perfil. Vive dentro de un <b>visor Meta Quest en un patio de tubería de Tenaris</b>, en una
-<b>cabina de cinco pantallas en Altamira Terminal Portuaria</b> y en un <b>kiosko de museo en Ciudad Juárez</b>.</p>
 <p>Casi todo lo que he construido es <b>propiedad del cliente y está bajo NDA</b>: simuladores, estaciones de
 instructor y motores de telemetría que viven en repositorios privados que no me toca publicar. Los repos de
 aquí están vacíos, no el trabajo.</p>
