@@ -50,7 +50,7 @@ y capturas de cada sistema corriendo: &nbsp;<b><a href="https://www.jorgecruz.de
 <br />
 
 <!-- ═════════════ 02 ═════════════ -->
-<h3><code>&nbsp;02&nbsp;</code>&nbsp; Trabajo seleccionado</h3>
+<h3><code>&nbsp;02&nbsp;</code>&nbsp; Proyectos destacados</h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:38bdf8,100:8b5cf6&height=3&section=header" width="100%" alt="" />
 
 <table>
