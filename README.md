@@ -1,11 +1,15 @@
 <!-- ═════════════ HERO ═════════════ -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,35:22d3ee,70:38bdf8,100:8b5cf6&height=170&section=header" width="100%" alt="" />
+</p>
+
 <h1 align="center">Jorge Cruz</h1>
 <p align="center"><b>Unity &amp; Unreal Engine Developer</b> &nbsp;·&nbsp; XR, Simuladores &amp; Full Stack</p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=22D3EE&center=true&vCenter=true&width=700&height=32&lines=Simuladores+de+capacitaci%C3%B3n+de+riesgo+cero;Realidad+virtual+y+aumentada+que+s%C3%AD+se+usa;Del+pipeline+3D+al+backend+en+producci%C3%B3n;Mi+mayor+valor+es+la+adaptabilidad+t%C3%A9cnica" alt="Simuladores de capacitación de riesgo cero · XR · Full Stack" />
 </p>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:38bdf8,100:8b5cf6&height=4&section=header" width="260" height="4" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:38bdf8,100:8b5cf6&height=20&section=header" width="260" height="4" alt="" />
 </p>
 
 <p align="center">
@@ -20,10 +24,21 @@
 <!-- ═════════════ CIFRAS ═════════════ -->
 <table align="center">
 <tr>
-<td align="center" width="25%"><h3>9+</h3><sub>AÑOS EN LA INDUSTRIA</sub></td>
-<td align="center" width="25%"><h3>13</h3><sub>PROYECTOS ENTREGADOS</sub></td>
-<td align="center" width="25%"><h3>9</h3><sub>CLIENTES E INSTITUCIONES</sub></td>
-<td align="center" width="25%"><h3>6</h3><sub>SECTORES INDUSTRIALES</sub></td>
+<td align="center" width="33%">
+<h2>9+</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:38bdf8,100:8b5cf6&height=20&section=header" width="110" height="4" alt="" /><br />
+<sub><b>AÑOS DE EXPERIENCIA</b></sub>
+</td>
+<td align="center" width="33%">
+<h2>13</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:38bdf8,100:8b5cf6&height=20&section=header" width="110" height="4" alt="" /><br />
+<sub><b>PROYECTOS COMPLETADOS</b></sub>
+</td>
+<td align="center" width="33%">
+<h2>9</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:38bdf8,100:8b5cf6&height=20&section=header" width="110" height="4" alt="" /><br />
+<sub><b>CLIENTES</b></sub>
+</td>
 </tr>
 </table>
 
@@ -155,54 +170,83 @@ Rúbricas y diseño pedagógico fundamentados de forma estricta en la normativa 
 <br />
 
 <!-- ═════════════ 03 ═════════════ -->
-<h3><code>&nbsp;03&nbsp;</code>&nbsp; Con qué lo construyo</h3>
+<h3><code>&nbsp;03&nbsp;</code>&nbsp; Stack tecnológico</h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:38bdf8,100:8b5cf6&height=3&section=header" width="100%" alt="" />
 
 <table>
 <tr>
-<td width="26%" valign="top"><b>Para simular</b><br /><sub>Mecánicas, físicas y evaluación de maquinaria pesada</sub></td>
-<td valign="top">
+<td width="22%" valign="middle"><b>Motores de desarrollo</b></td>
+<td valign="middle">
 <img src="https://img.shields.io/badge/Unreal_Engine-0B1120?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Blueprints-1F2937?style=for-the-badge" alt="Blueprints" />
 <img src="https://img.shields.io/badge/nDisplay-1F2937?style=for-the-badge" alt="nDisplay" />
+<img src="https://img.shields.io/badge/Pixel_Streaming-0B1120?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Pixel Streaming" />
 </td>
 </tr>
 <tr>
-<td width="26%" valign="top"><b>Para llevar el mundo real a 3D</b><br /><sub>Fotogrametría, retopología y optimización</sub></td>
-<td valign="top">
+<td width="22%" valign="middle"><b>Lenguajes</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</td>
+</tr>
+<tr>
+<td width="22%" valign="middle"><b>Realidad extendida</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Meta_SDK-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta SDK" />
+<img src="https://img.shields.io/badge/AR_Foundation-1F2937?style=for-the-badge&logo=unity&logoColor=white" alt="AR Foundation" />
+<img src="https://img.shields.io/badge/OpenXR-000000?style=for-the-badge&logo=khronosgroup&logoColor=white" alt="OpenXR" />
+<img src="https://img.shields.io/badge/SteamVR-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="SteamVR" />
+<img src="https://img.shields.io/badge/Vuforia-00AEEF?style=for-the-badge" alt="Vuforia" />
+</td>
+</tr>
+<tr>
+<td width="22%" valign="middle"><b>Pipeline 3D</b></td>
+<td valign="middle">
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 <img src="https://img.shields.io/badge/Substance_Painter-F26522?style=for-the-badge" alt="Substance Painter" />
 <img src="https://img.shields.io/badge/Reality_Capture-0B1120?style=for-the-badge" alt="Reality Capture" />
 <img src="https://img.shields.io/badge/3ds_Max-00A4E4?style=for-the-badge&logo=autodesk3dsmax&logoColor=white" alt="3ds Max" />
 <img src="https://img.shields.io/badge/Maya-00A4E4?style=for-the-badge&logo=autodeskmaya&logoColor=white" alt="Maya" />
+<img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp" />
 </td>
 </tr>
 <tr>
-<td width="26%" valign="top"><b>Para ponerlo en manos de alguien</b><br /><sub>VR standalone, AR móvil y kioskos interactivos</sub></td>
-<td valign="top">
-<img src="https://img.shields.io/badge/Meta_SDK-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta SDK" />
-<img src="https://img.shields.io/badge/AR_Foundation-1F2937?style=for-the-badge&logo=unity&logoColor=white" alt="AR Foundation" />
-<img src="https://img.shields.io/badge/OpenXR-000000?style=for-the-badge&logo=khronosgroup&logoColor=white" alt="OpenXR" />
-<img src="https://img.shields.io/badge/Vuforia-00AEEF?style=for-the-badge" alt="Vuforia" />
+<td width="22%" valign="middle"><b>IA y visión por computadora</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Vertex AI" />
+<img src="https://img.shields.io/badge/Azure_AI_Vision-0078D4?style=for-the-badge" alt="Azure AI Vision" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge" alt="YOLOv8" />
 </td>
 </tr>
 <tr>
-<td width="26%" valign="top"><b>Para sostenerlo en producción</b><br /><sub>Backend, dashboards, datos y despliegue</sub></td>
-<td valign="top">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<td width="22%" valign="middle"><b>Full stack</b></td>
+<td valign="middle">
 <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=E23237" alt="Angular" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/Directus-6644FF?style=for-the-badge&logo=directus&logoColor=white" alt="Directus" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</td>
+</tr>
+<tr>
+<td width="22%" valign="middle"><b>Cloud y DevOps</b></td>
+<td valign="middle">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" alt="Azure" />
-<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" alt="Microsoft Azure" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white" alt="Perforce" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </td>
 </tr>
 </table>
@@ -210,7 +254,7 @@ Rúbricas y diseño pedagógico fundamentados de forma estricta en la normativa 
 <br />
 
 <!-- ═════════════ 04 ═════════════ -->
-<h3><code>&nbsp;06&nbsp;</code>&nbsp; Hablemos</h3>
+<h3><code>&nbsp;04&nbsp;</code>&nbsp; Hablemos</h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:38bdf8,100:8b5cf6&height=3&section=header" width="100%" alt="" />
 
 <p align="center">
@@ -225,5 +269,5 @@ Tomo proyectos de simulación industrial, XR, videojuegos y software a la medida
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,50:38bdf8,100:22d3ee&height=4&section=header" width="260" height="4" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,30:38bdf8,65:22d3ee,100:0B1120&height=130&section=footer" width="100%" alt="" />
 </p>
