@@ -4,10 +4,8 @@
 </p>
 
 <h1 align="center">Jorge Cruz</h1>
-<p align="center"><b>Unity &amp; Unreal Engine Developer</b> &nbsp;·&nbsp; XR, Simuladores &amp; Full Stack</p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=22D3EE&center=true&vCenter=true&width=700&height=32&lines=Simuladores+de+capacitaci%C3%B3n+de+riesgo+cero;Realidad+virtual+y+aumentada+que+s%C3%AD+se+usa;Del+pipeline+3D+al+backend+en+producci%C3%B3n;Mi+mayor+valor+es+la+adaptabilidad+t%C3%A9cnica" alt="Simuladores de capacitación de riesgo cero · XR · Full Stack" />
-</p>
+<h2 align="center">Unity &amp; Unreal Engine Developer</h2>
+<h3 align="center">XR, Simuladores &amp; Full Stack</h3>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:38bdf8,100:8b5cf6&height=20&section=header" width="260" height="4" alt="" />
 </p>
