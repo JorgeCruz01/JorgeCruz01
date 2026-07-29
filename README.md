@@ -179,9 +179,6 @@ Rúbricas y diseño pedagógico fundamentados de forma estricta en la normativa 
 <td valign="middle">
 <img src="https://img.shields.io/badge/Unreal_Engine-0B1120?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/Blueprints-1F2937?style=for-the-badge" alt="Blueprints" />
-<img src="https://img.shields.io/badge/nDisplay-1F2937?style=for-the-badge" alt="nDisplay" />
-<img src="https://img.shields.io/badge/Pixel_Streaming-0B1120?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Pixel Streaming" />
 </td>
 </tr>
 <tr>
